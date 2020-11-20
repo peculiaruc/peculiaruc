@@ -1,10 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **peculiaruc/peculiaruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-# I am Peculiar C. Umeh
+
+## I am Peculiar C. Umeh
+
 ### Stack Android Developer
 
 - 🔭 I’m currently looking for some interesting projects to work!
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like football
 -->
 
-### Connect with me
+#### Connect with me
 
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
