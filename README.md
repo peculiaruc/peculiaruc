@@ -11,6 +11,11 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
  
  <img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
+ 
+ <img height=50 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"/>
+ 
+  <img height=50 src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/>
+ 
 </p>
  
  ### :octocat: My stats
