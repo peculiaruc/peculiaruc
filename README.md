@@ -5,9 +5,12 @@
 <h3>Technologies</h3>
 <p>
 <img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/>
+ 
 <img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+ 
 <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
- <img height=50 src="https://www.vectorlogo.zone/logos/javalang/javalang-ar21.svg"/>
+ 
+ <img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
 </p>
  
  ### :octocat: My stats
